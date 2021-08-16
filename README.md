@@ -1,0 +1,2 @@
+# CsharpPracticeScriptsOne
+Practise scripts CsharpOne
